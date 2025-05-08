@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "I have updated my project description",
-	"keywords": [],
+	"keywords": ["freecodecamp", "nodejs", "backend"],
 	"author": "Deborah Abang",
 	"license": "ISC",
 	"bugs": {
